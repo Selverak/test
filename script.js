@@ -1,2 +1,2 @@
-console.log("V 05");
-console.log("sve je updatano");
+console.log("V 06");
+console.log("Oradili smo ispravak greške");
